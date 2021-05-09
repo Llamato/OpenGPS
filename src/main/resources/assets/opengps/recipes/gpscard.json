@@ -1,0 +1,15 @@
+{
+  "result": {
+    "item": "opengps:gpscard"
+  },
+  "pattern": [
+    "d"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "d": {
+      "item": "minecraft:dirt",
+      "data": 0
+    }
+  }
+}
