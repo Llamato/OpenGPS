@@ -28,7 +28,7 @@ public class GpsBlockTileEntity extends TileEntity implements SimpleComponent{
     //@Optional.Method(modid = "OpenComputers")
     public Object[] greet(Context context, Arguments args) {
         return new Object[]{String.format("Hello, %s!", args.checkString(0))};
-    }
+    } // Why is this not working? Why!!!
 
     /*@Callback
     @Optional.Method(modid = "OpenComputers")
