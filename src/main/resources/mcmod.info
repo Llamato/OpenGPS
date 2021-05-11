@@ -5,7 +5,7 @@
     "description": "Adds GPS to Opencomputers",
     "version": "${version}",
     "mcversion": "${mcversion}",
-    "url": "",
+    "url": "https://github.com/Llamato/OpenGPS",
     "updateUrl": "",
     "authorList": [
       "Llamato"
